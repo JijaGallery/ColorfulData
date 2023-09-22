@@ -5,3 +5,5 @@
 1- "Predicting Teleco Customer Churn with Precision: Unveiling Insights from 'Tenure' and 'TotalCharges' Using K-Nearest Neighbors (KNN)"
 
 2- Recommendation top 50 movies 
+
+3-Dummy Marketing and Sales Data . Liner Regression, Feature selection by Lasso , TV has good result in this dataset.
