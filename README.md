@@ -7,3 +7,5 @@
 2- Recommendation top 50 movies 
 
 3-Dummy Marketing and Sales Data . Liner Regression, Feature selection by Lasso , TV has good result in this dataset.
+
+4- Leveraging NLP for Enhanced Customer Insights at Sephora
